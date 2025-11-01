@@ -13,10 +13,11 @@
 
 ## Структура проекта
 ├── src/
+
 │   ├── moves/          
 │   ├── pokemons/       
 │   └── Main.java       
-│   └── Pokemons.jar  
+│   └── Pokemon.jar  
 └── README.md
 ## Вариант №2509
 ![Задание](images/z1.png)
