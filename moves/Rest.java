@@ -11,7 +11,6 @@ public final class Rest extends StatusMove {
 
     @Override
     protected void applySelfEffects(Pokemon self) {
-        // Simplified: user falls asleep; healing is handled by simulator's sleep recovery over time
         Effect.sleep(self);
     }
 
