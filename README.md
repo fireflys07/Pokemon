@@ -19,4 +19,4 @@
 │   └── Pokemons.jar  
 └── README.md
 ## Вариант №2509
-images/.gitkeep
+![Задание](images/z1.png)
